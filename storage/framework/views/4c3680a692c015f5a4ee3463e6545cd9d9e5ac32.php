@@ -1,0 +1,3 @@
+<svg wire:loading.remove.delay="1" wire:target="mountFormComponentAction('data.categories', 'createOption')" class="filament-icon-button-icon w-5 h-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"/>
+</svg><?php /**PATH /Users/asadbekfayzulloev/server/anysoft_pro/storage/framework/views/cd45899bca9fa11b65463633d6dd7db37ca16819.blade.php ENDPATH**/ ?>
